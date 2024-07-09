@@ -24,3 +24,9 @@ function tellFortune() {
 
     document.getElementById("fortune").innerHTML=career;
 }
+
+const a =100;
+const c =100;
+const b ='100';
+console.log(a==b)
+console.log(a===b)
